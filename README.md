@@ -98,17 +98,10 @@ Add your own words to the custom_stopwords set in the script.
 Essential Words
 Add any important terms to the essential_words set to prevent their removal.
 
-👥 Group Members
+👥Made by:
 
 Berhanelidet Bekele – UGR/9452/16
 
-Abel Engidu – UGR/5590/16
-
-Dawit Temesgen – UGR/4848/16
-
-Eldana Mulugeta – UGR/0191/16
-
-Rodas Awgichew – UGR/8851/16
 
 ⚠️ Notes
 The script is optimized for large corpora.
